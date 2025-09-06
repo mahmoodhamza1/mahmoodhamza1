@@ -10,8 +10,8 @@ I’m a **Data Analyst with an MSc in Big Data Analytics** and a background in *
 - Quantitative Finance  
 - Artificial Intelligence & Machine Learning   
 - Econometrics & Time Series Forecasting  
-- Natural Language Processing (NLP) & Text Analytics  
-- Big Data Analytics & Visualization for storytelling 
+- Business Intelligence & Data Analysis  
+- Big Data Analytics & Visualization 
 ---
 
 ## 🔧 Skills & Tools  

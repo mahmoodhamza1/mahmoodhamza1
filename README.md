@@ -6,12 +6,12 @@ I’m a **Data Analyst with an MSc in Big Data Analytics** and a background in *
 
 🎯 **Ambition:** To grow as a versatile data professional who can bridge the gap between **technical analytics** and **strategic decision-making**.  
 
-🚀 **Areas of Interest:**  
-- Quantitative Finance  
-- Artificial Intelligence & Machine Learning   
-- Econometrics & Time Series Forecasting  
+🚀 **Areas of Interest:**   
+- Artificial Intelligence & Machine Learning
 - Business Intelligence & Data Analysis  
 - Big Data Analytics & Visualization 
+- Quantitative Finance    
+- Econometrics & Time Series Forecasting  
 ---
 
 ## 🔧 Skills & Tools  
@@ -57,7 +57,10 @@ I’m a **Data Analyst with an MSc in Big Data Analytics** and a background in *
   Developed an interactive **R Shiny dashboard** for exchange rate analysis. Features include **time series visualization**, **STL decomposition**, and **GARCH volatility modeling**, with dynamic summaries for trend, seasonality, and risk insights.  
 
 - 🌍 [**Impact of Economic Freedom on GDP Growth**](https://github.com/mahmoodhamza1/Impact-of-Economic-Freedom-on-GDP-Growth)   
-  Analyzed the relationship between the **Economic Freedom Index (2019)** and **GDP growth**. Conducted normality checks, used **Spearman correlation**, and built **multiple regression models** with investment, labor, and trade freedom as predictors.  
+  Analyzed the relationship between the **Economic Freedom Index (2019)** and **GDP growth**. Conducted normality checks, used **Spearman correlation**, and built **multiple regression models** with investment, labor, and trade freedom as predictors.
+
+- 🔬 [**Activation Functions in Text & Image Classification**](https://github.com/mahmoodhamza1/Activation-Functions-in-Text-Image-Classification)    
+  Compared ReLU, Leaky ReLU, and Swish activation functions using GRU (text classification on 20 Newsgroups) and CNN (image classification on CIFAR-10). Found that Swish outperformed ReLU and Leaky ReLU in deeper architectures, while ReLU remained efficient for shallower networks.     
 
 - 🏛️ [**US Crime Rates Analysis (1960–2014)**](https://github.com/mahmoodhamza1/Analysis-of-US-Crime-Rates)   
   Explored long-term crime trends using U.S. data. Conducted **time series analysis, treemap distribution, and correlation studies**, identifying crime waves followed by long-term decline, with property crimes as the main driver.  
